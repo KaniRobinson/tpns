@@ -1,0 +1,21 @@
+{
+    "name": "team8digital/tpns",
+    "description": "Library for connecting to Team 8's Push notifications services",
+    "type": "library",
+    "homepage": "https://github.com/team8digital/tpns",
+    "license": "MIT",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "KaniRobinson",
+            "email": "kani.robinson@team8digital.uk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TPNS\\": "src"
+        }
+    }
+}
