@@ -9,7 +9,7 @@ class Notification extends \TPNS\Guzzle {
 	 * 
 	 * @var string
 	 */
-    protected $apiUri = 'http://pushsvr.team8digital.uk/api/notification';
+    protected $apiUri = 'https://push.com/api/notification';
 
     /**
      * Mass assign options for request

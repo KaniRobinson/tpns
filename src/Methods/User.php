@@ -9,7 +9,7 @@ class User extends \TPNS\Guzzle {
 	 * 
 	 * @var string
 	 */
-    protected $apiUri = 'http://pushsvr.team8digital.uk/api/user';
+    protected $apiUri = 'https://push.com/api/user';
 
     /**
      * Mass assign options for request

@@ -1,9 +1,9 @@
-# Team 8 Push Notification Service Library
+# Push Notification Service Library
 
 # Installation
 
 ```sh
-$ composer require team8digital/tpns dev-master
+$ composer require KaniRobinson/tpns dev-master
 ```
 
 # Usage
